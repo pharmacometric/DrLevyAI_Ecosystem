@@ -13,6 +13,7 @@ This document provides detailed information about using NONMEM and MONOLIX contr
 7. [Complete Examples](#complete-examples)
 8. [Parsing Details](#parsing-details)
 9. [Best Practices](#best-practices)
+10. Machine Learning Models
 
 ---
 
