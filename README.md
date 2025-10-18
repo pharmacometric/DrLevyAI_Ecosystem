@@ -1,4 +1,4 @@
-# Dr. Levy: The AI-Powered Pharmacometrics Platform (PK, PK/PD & QSP) 🚀
+# Dr. Levy: AI-Powered Pharmacometrics Automation Platform
 
 **Dr. Levy** is a revolutionary, AI-powered platform designed to transform **clinical pharmacology and pharmacometrics** project management. It provides a complete project management solution, from initiation all the way to completion. The platform integrates with industry-standard tools like **NONMEM** while introducing its proprietary **PHIKL** software, creating a comprehensive ecosystem for analysis, reporting, and collaboration.
 
