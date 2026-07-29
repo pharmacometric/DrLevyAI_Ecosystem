@@ -8,10 +8,9 @@
 
 | Detail | Description |
 | :--- | :--- |
-| **Official Title** | Dr. Levy - AI-Powered Clinical Pharmacology Platform |
+| **Official Title** | Dr. Levy - AI-Powered Clin Pharm & PMx Platform |
 | **Focus** | AI-Powered Pharmacometrics (PK, PK/PD & QSP) |
 | **Owner** | Pharmacometrics AI |
-| **Launch Date** | December 15, 2025 |
 | **Tagline** | Complete pharmacometrics project management powered by AI |
 
 ***
@@ -44,43 +43,6 @@ The platform leverages **cutting-edge AI technology** to enable researchers to c
 * **Overall Efficiency:** The platform's features, including AI-Powered Workflow and Speed & Efficiency, are designed to reduce project timelines dramatically.
 
 ***
-
-## Pricing & Plans
-
-Dr. Levy offers simple, transparent pricing—you can **start free** and scale as you grow.
-
-### 1. Individual Plan
-
-This plan is **Free** and is perfect for solo pharmacometricians.
-
-* 1 User Account
-* Full Platform Access
-* NONMEM & PHIKL Support
-* Report & Poster Tools
-* AI-Powered Features
-
-### 2. Teams Plan
-
-This plan is offered at a **Custom** price and is designed for organizations and research teams.
-
-* Multiple Users
-* Advanced Collaboration
-* Priority Support
-* Custom Integrations
-* Dedicated Account Manager
-
-***
-
-## Get Started
-
-### Join the Waitlist
-
-To get **early access** and be among the first to experience Dr. Levy, you can join the waitlist. The required fields for sign-up are:
-
-* Full Name
-* Email Address
-
-You can also optionally provide your organization and your role (e.g., Pharmacometrician, Clinical Pharmacologist, Data Scientist, Student, or Other). There is also an option to express interest in **early access and beta testing**.
 
 ### Contact
 
